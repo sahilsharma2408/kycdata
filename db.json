@@ -1,0 +1,39 @@
+{
+    "mcc-company-info": {
+      "countries": [
+        {
+          "name":"Germany",
+          "code":"DE",
+          "calling_code":"+49"
+        },
+        {
+          "name":"France",
+          "code":"FR",
+          "calling_code":"+33"
+        }
+      ],
+      "companyTypes": [
+        "privateCompany",
+        "soleProprietorship",
+        "listedPublicCompany",
+        "partnershipIncorporated",
+        "associationIncorporated",
+        "governmentalOrganization"
+      ],
+      "mcc": [
+        "11",
+        "21",
+        "23",
+        "2211",
+        "2212",
+        "2213"
+      ]
+    },
+    "holder": [{
+      "id": "1",
+      "mcc": "3255",
+      "countryCode": "FR",
+      "companyType": "listedPublicCompany",
+      "isDeclared": true
+    }]
+  }
