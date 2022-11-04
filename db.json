@@ -30,10 +30,6 @@
       ]
     },
     "holder": [{
-      "id": "1",
-      "mcc": "3255",
-      "countryCode": "FR",
-      "companyType": "listedPublicCompany",
-      "isDeclared": true
+      "id": "1"
     }]
   }
