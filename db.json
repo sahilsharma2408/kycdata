@@ -36,5 +36,19 @@
         {
           "id": "1"
         }
-    ]
+    ],
+    "organization": {
+        "name": "Sendinblue",
+        "website": "https://sendinblue.com",
+        "email": "contact@sendinblue.com",
+        "mobile": "+33 1234567890",
+        "address": {
+          "street": "Tower A-8, Block A, Industrial Area, Sector 62",
+          "city": "Noida",
+          "state": "CA",
+          "postalCode": "201309",
+          "countryCode": "CA"
+        },
+        "vatNumber": "BE0999999999"
+      }
   }
